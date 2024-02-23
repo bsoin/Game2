@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style.css">
+    <title>Phaser - Template</title>
+</head>
+
+<body>
+    <div id="app">
+        <div id="game-container"></div>
+
+        <div id="ui">
+            <div id="main-menu">
+                <h1>Super Gra!</h1>
+
+                <section id="name-input">
+                    <div>Imie</div>
+                    <input type="text">
+                </section>
+
+                <section id="select-character">
+                    <div>Postac</div>
+
+                    <div id="character-list">
+                        <img src="assets/characters/girl1/preview.png" data-character="girl1">
+                        <img src="assets/characters/girl2/preview.png" data-character="girl2">
+                        <img src="assets/characters/boy1/preview.png" data-character="boy1">
+                        <img src="assets/characters/boy2/preview.png" data-character="boy2">
+                        <img src="assets/characters/robot/preview.png" data-character="robot">
+                        <img src="assets/characters/zombie/preview.png" data-character="zombie">
+                    </div>
+                </section>
+
+                <section>
+                    <button id="start-game">Start</button>
+                </section>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="src/main.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,134 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/Users/bsoin/Projects/Games/Game2/client/src/planets/tiles_spritesheet.tsx": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "common_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "planet1.json": {
+            "scale": 0.709,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 69.1114245416079,
+                "y": 419.6050775740479
+            }
+        },
+        "planet1.json#common_tiles": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "planet1.tmj": {
+            "scale": 0.64,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 655.46875,
+                "y": 280.46875
+            }
+        },
+        "planet1.tmx": {
+            "scale": 0.4271,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 717.6305314914539,
+                "y": 675.4858346991339
+            }
+        },
+        "planet2.json": {
+            "scale": 0.8186,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1794.5272416320545,
+                "y": 302.3454678719765
+            }
+        },
+        "planet2.json#common_tiles": {
+            "scaleInDock": 1
+        },
+        "planet3.json": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.6246,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2038.104386807557,
+                "y": 365.83413384566126
+            }
+        },
+        "planet3.json#common_tiles": {
+            "scaleInDock": 1
+        },
+        "planet3.json#common_tiles2": {
+            "scaleInDock": 1
+        },
+        "planet4.json": {
+            "scale": 1.1488,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1116.817548746518,
+                "y": 341.6608635097493
+            }
+        },
+        "planet4.json#common_tiles": {
+            "scaleInDock": 1
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.78
+        }
+    },
+    "last.exportedFilePath": "/Users/bsoin/Projects/Games/Game2/client/public/assets/maps",
+    "last.imagePath": "/Users/bsoin/Projects/Games/Game2/client/public/assets/maps",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 70,
+    "map.tileWidth": 70,
+    "map.width": 200,
+    "openFiles": [
+    ],
+    "project": "planets.tiled-project",
+    "recentFiles": [
+        "planet3.json",
+        "planet2.json",
+        "planet1.json",
+        "common_tiles.tsx",
+        "planet1.tmj",
+        "planet1.tmx",
+        "tiles_spritesheet.tsx",
+        "tiles1.tsx",
+        "tiles.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 70,
+        "width": 70
+    }
+}

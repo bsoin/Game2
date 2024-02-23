@@ -1,0 +1,100 @@
+@font-face {
+    font-family: KenvectorFuture;
+    src: url(assets/fonts/kenvector_future.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #000000;
+}
+
+#app {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ui {
+    display: none;
+    position: absolute;
+
+    padding: 2rem;
+
+    background: rgba(255,255,255, 0.2);
+    border: 2px solid rgba(255,255,255, 0.3);
+
+    font-family: KenvectorFuture;
+}
+
+input, button {
+    font-family: KenvectorFuture;
+}
+
+#main-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+h1 {
+    margin: 16px 0;
+    font-size: 2rem;
+    text-align: center;
+    
+    color: #F7CE46;
+    text-shadow: 2px 2px 1px #333333;
+
+}
+
+#main-menu section {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#name-input input {
+    border: none;
+    background: rgba(255,255,255,0.8);
+    padding: 8px;
+    font-size: 14px;
+}
+
+#character-list {
+    display: flex;
+    justify-content: space-between;
+
+    margin: 1rem 0;
+}
+
+#character-list img {
+    width: 70px;
+    padding: 0 16px 16px 16px;
+    transition: scale 0.2s;
+}
+
+#character-list img:hover {
+    scale: 1.2;
+}
+
+#character-list img.selected {
+    scale: 1.2;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#start-game {
+    background-color: #89CB5E;
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 50;
+    padding: 8px;
+    margin: 16px 20%;
+}
+
+#start-game:hover {
+    background-color: #89e74b;
+}
